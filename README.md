@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+## Discord-Inspired Dashboard with Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Inspired by [Fireship-io](https://github.com/fireship-io/tailwind-dashboard)
+
+#### Dark mode
+
+![Dark mode](./dark-mode.png)
+
+#### Light mode
+
+![Light mode](./light-mode.png)
 
 ## Available Scripts
 
